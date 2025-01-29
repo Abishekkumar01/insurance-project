@@ -1,1 +1,1 @@
-# insurance-project
+# insurance_premium_prediction
